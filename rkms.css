@@ -3,6 +3,29 @@
 			margin:0;
 			padding:0;
 		}
+		#mainarea1
+		{
+			width:150px;
+			height:20px;
+			position:fixed;
+			bottom:40px;
+			right:50px;
+			background:#196F3D;
+			border-radius:10px;
+			z-index:1000;
+		}
+		#mainarea1
+		{
+			font:22px bolder arial;
+			padding:10px 20px 15px 20px;
+			font-style:italic;
+			letter-spacing:2px;
+			color:white;
+		}
+		#mainarea1:hover
+		{
+			background:black;
+		}
 		#mainarea
 		{
 			width:100%;
