@@ -25,13 +25,12 @@
 		#mainarea1:hover
 		{
 			background:black;
-		}
+		}	
 		#mainarea
 		{
 			width:100%;
 			height:3750px;
 			margin:auto 0;
-
 		}
 		#aarea
 		{
@@ -70,7 +69,6 @@
 			text-align:center;
 			color:white;
 			padding:5px;
-			
 		}
 		#aarea3:hover
 		{
