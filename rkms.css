@@ -527,10 +527,10 @@
 		{
 			color:black;
 		}
-		@media print
+		@media screen and (max-width:1000px)
 		{
-			#aarea
+			#mainarea,#mainarea1,#aarea,#aarea1,#aarea2,#aarea3,#aarea4.#barea,#barea1,#barea2,#carea,#darea,#darea1,#darea2,#darea3,#earea,#earea1,#earea2,#farea,#farea1,#farea2,.farea3,.farea4,#garea,#garea2,.garea1,#harea,.harea1,#iarea,#iarea3,.iarea1,.iarea2,#jarea,#jarea1,#jarea2,#jarea3,.jarea4,
 			{
-				display:none;
+				width:100%;
 			}
 		}
